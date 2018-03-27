@@ -1,0 +1,23 @@
+{
+  "name": "example-solidity-proxy-factory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test",
+    "truffle": "truffle"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cag/example-solidity-proxy-factory.git"
+  },
+  "author": "Alan Lu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cag/example-solidity-proxy-factory/issues"
+  },
+  "homepage": "https://github.com/cag/example-solidity-proxy-factory#readme",
+  "devDependencies": {
+    "truffle": "^4.1.3"
+  }
+}
